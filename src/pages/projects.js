@@ -214,7 +214,7 @@ export default function Projects() {
                 summary="My portfolio website using Next, Tailwind CSS, &Framer-motion. It has smooth page transitions, cool background effects, unique design and it is mobile responsive."
                 img={This}
                 link="https://www.chriswarren.dev/"
-                github="https://github.com/ItsCdubb"
+                github="https://github.com/ItsCDubb/next-portfolio"
               />
             </div>
             <div className="col-span-6 sm:col-span-12">
