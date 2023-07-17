@@ -59,7 +59,7 @@ const Experience = () => {
             position="Software Engineer"
             company="CW Technologies"
             companyLink="https://cwtechnologies.co"
-            time="2022-Present"
+            time="2022 - Present"
             address="Remote"
             work="Worked with multiple clients to build technology solutions that worked. Worked on assessing the risks involved & develop risk management strategies that would help them evolve & grow."
           />
@@ -75,15 +75,15 @@ const Experience = () => {
             position="React Native Developer"
             company="SwagCheck, Inc."
             companyLink="https://swagcheck.io/"
-            time="2021-2022"
-            address="Seattle, WA."
+            time="2021 - 2022"
+            address="Remote"
             work="Used React Native to build the app, instrumental in developing the ability to add a signature to newly minted NFTs, Updated the code base from React Native 0.64 to React Native 0.67, Helped install a payment gateway for people to purchase an NFT after it was minted."
           />
           <Details
             position="Full-Stack Developer"
             company="Avaaz Media, Inc."
             companyLink="https://avaazmedia.com/"
-            time="December 2020 - February 2021"
+            time="2020 - 2021"
             address="Remote"
             work="Started the conversion of the Brown Geeks website from WordPress to React, reviewed code for The Brown Geeks website, corrected coding issues, & debugged problems
             "
@@ -109,7 +109,7 @@ const Experience = () => {
             position="IT2"
             company="The United States Navy"
             companyLink="https://www.navy.com/"
-            time="July 2000 - December 2006"
+            time="2000 - 2006"
             address="San Dieg, CA"
             work="While an active member of the United States Navy I served with distinction."
           />
