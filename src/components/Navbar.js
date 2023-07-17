@@ -7,7 +7,6 @@ import {
   GithubIcon,
   LinkedInIcon,
   MoonIcon,
-  PinterestIcon,
   SunIcon,
   TwitterIcon,
 } from "./Icons";
@@ -119,7 +118,7 @@ const Navbar = () => {
           <motion.a
             target={"_blank"}
             className="w-6 mr-3"
-            href="#"
+            href="https://twitter.com/CDubb2019"
             whileHover={{ y: -2 }}
             whileTap={{ scale: 0.9 }}
             aria-label="Checkout my twitter profile"
@@ -129,7 +128,7 @@ const Navbar = () => {
           <motion.a
             target={"_blank"}
             className="w-6 mx-3"
-            href="#"
+            href="https://github.com/ItsCdubb"
             whileHover={{ y: -2 }}
             whileTap={{ scale: 0.9 }}
             aria-label="Checkout my github profile"
@@ -139,7 +138,7 @@ const Navbar = () => {
           <motion.a
             target={"_blank"}
             className="w-6 mx-3"
-            href="#"
+            href="https://www.linkedin.com/in/itscdubb/"
             whileHover={{ y: -2 }}
             whileTap={{ scale: 0.9 }}
             aria-label="Checkout my linkedin profile"
@@ -149,7 +148,7 @@ const Navbar = () => {
           <motion.a
             target={"_blank"}
             className="w-6 mx-3"
-            href="#"
+            href="https://dribbble.com/ItsCDubb"
             whileHover={{ y: -2 }}
             whileTap={{ scale: 0.9 }}
             aria-label="Checkout my dribbble profile"
