@@ -46,7 +46,7 @@ export default function About() {
       </Head>
       <TransitionEffect />
       <main
-        className={`flex  w-full flex-col items-center justify-center dark:text-light`}
+        className={`flex w-full flex-col items-center justify-center dark:text-light`}
       >
         <Layout className="pt-16">
           <AnimatedText
@@ -85,7 +85,7 @@ export default function About() {
               <Image
                 className="h-auto w-full rounded-2xl"
                 src={profile}
-                alt="Codebucks"
+                alt="Chris Warren"
                 sizes="(max-width: 768px) 100vw,
               (max-width: 1200px) 50vw,
               33vw"
@@ -104,7 +104,7 @@ export default function About() {
                   className="mb-4 text-xl font-medium capitalize text-dark/75 dark:text-light/75 
                 xl:text-center md:text-lg sm:text-base xs:text-sm"
                 >
-                  satisfied clients
+                  Satisfied clients
                 </h2>
               </div>
 
@@ -116,7 +116,7 @@ export default function About() {
                   className="mb-4 text-xl font-medium capitalize text-dark/75 dark:text-light/75 
                 xl:text-center md:text-lg sm:text-base xs:text-sm"
                 >
-                  projects completed
+                  Projects completed
                 </h2>
               </div>
 
