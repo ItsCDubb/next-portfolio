@@ -63,7 +63,6 @@ const Experience = () => {
             address="Remote"
             work="Worked with multiple clients to build technology solutions that worked. Worked on assessing the risks involved & develop risk management strategies that would help them evolve & grow."
           />
-
           <Details
             position="Software Engineer"
             company="Chris Warren Development"
@@ -72,7 +71,6 @@ const Experience = () => {
             address="Remote"
             work="Worked with many clients as a freelance developer & in that time used HTML, CSS, JavaScript, TypeScript, React, React Native, & a host of other technologies to help keep costs down for my clients."
           />
-
           <Details
             position="React Native Developer"
             company="SwagCheck, Inc."
@@ -81,28 +79,39 @@ const Experience = () => {
             address="Seattle, WA."
             work="Used React Native to build the app, instrumental in developing the ability to add a signature to newly minted NFTs, Updated the code base from React Native 0.64 to React Native 0.67, Helped install a payment gateway for people to purchase an NFT after it was minted."
           />
-
           <Details
-            position="Software Developer Intern"
-            company="Microsoft"
-            companyLink="https://microsoft.com"
-            time="Summer 2019"
-            address="Redmond, WA."
-            work="Worked on a team responsible for developing new features for
-              Microsoft's Windows operating system, including implementing a new
-              user interface for a system settings panel and optimizing the
-              performance of a core system component."
+            position="Full-Stack Developer"
+            company="Avaaz Media, Inc."
+            companyLink="https://avaazmedia.com/"
+            time="December 2020 - February 2021"
+            address="Remote"
+            work="Started the conversion of the Brown Geeks website from WordPress to React, reviewed code for The Brown Geeks website, corrected coding issues, & debugged problems
+            "
           />
-
           <Details
-            position="Teaching Assistant"
-            company="MIT"
-            companyLink="https://mit.edu"
-            time="Fall 2018"
-            address="Massachusetts Ave, Cambridge, MA."
-            work="Assisted in teaching a course on computer programming, held office
-              hours to help students with assignments, and graded exams and
-              assignments."
+            position="Director of Technology"
+            company="The Five Star Institute"
+            companyLink="https://thefivestar.com/"
+            time="April 2013 - December 2013"
+            address="Dallas, TX"
+            work="Monitored the construction, maintenance, and security of the network, increased the profitability of the company by making systems and procedures more efficient, and reducing waste spending resulting in an estimated $3 million increase, raised membership in our realtor community from 1,000 to 1,600 from marketing, and saw a 25% increase in eLearning platform use."
+          />
+          <Details
+            position="PC Repair Technician"
+            company="The Five Star Institute"
+            companyLink="https://thefivestar.com/"
+            time="March 2013 - April 2013"
+            address="Dallas, TX"
+            work="Repaired Laptops for use by employees out in the field, restored information thought to be lost on employee computers, installed anti-virus software across the board to users in an effort to combat malware & virus attacks on systems being utilized,
+            Was responsible for the conversion from PC to Apple products."
+          />
+          <Details
+            position="IT2"
+            company="The United States Navy"
+            companyLink="https://www.navy.com/"
+            time="July 2000 - December 2006"
+            address="San Dieg, CA"
+            work="While an active member of the United States Navy I served with distinction."
           />
         </ul>
       </div>
