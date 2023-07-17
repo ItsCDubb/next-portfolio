@@ -48,13 +48,13 @@ const Education = () => {
         />
         <ul className="w-full flex flex-col items-start justify-between ml-4">
           <Details
-            type="Online Coursework"
+            type="Google UX Design Professional Certificate"
             time="2023"
             place="Coursera"
-            info="Completed coursework in the Google UX Design Profeesional Certificate program."
+            info="Completed multiple certificates in the Google UX Design Profeesional Certificate program."
           />
           <Details
-            type="Online Coursework"
+            type="Full-Stack Web Development"
             time="2020"
             place="Kenzie Academy"
             info="Completed coursework in Front-End & Full-Stack Web Development."
